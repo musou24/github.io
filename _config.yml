@@ -10,8 +10,8 @@ title: Musou24 Station
 email: michi.ccy@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Demonstration of all my works and my profolio.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+baseurl: "https://musou24.github.io/JSDemo/" # the subpath of your site, e.g. /blog
+url: "https://musou24.github.io/" # the base hostname & protocol for your site
 github_username:  musou24
 
 # Build settings
