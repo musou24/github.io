@@ -1,9 +1,8 @@
 ---
 layout: page
-title: About
+title: About Musou24
 permalink: /about/
 ---
-<h2>About Musou24</h2>
 
 <h3>Janet Chen</h3>
 Now living in Tapei, Taiwan.
@@ -18,7 +17,8 @@ Domain knowledge including:semiconductor manufacturing, photonics technology, pa
 
 *An amateur basketball player.
 
-
+  
+  
 
 Love to learn new things. Have been playing hoverboard and ukulele recently.
 
